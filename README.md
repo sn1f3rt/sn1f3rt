@@ -1,10 +1,10 @@
 # Bonjour! 👋
 
-I'm a 21-year-old full-stack developer and open-source enthusiast. I am pursuing a Bachelor of Technology (B.Tech) in Computer Science & Engineering from Amity University, Haryana.
+I'm a 23-year-old software engineer and open-source enthusiast, currently working at [Better](https://www.bettrhq.com/) as an SWE.
 
 I ❤️ **#OpenSource** and am willing to collaborate on any project of interest. 
 
-Check out my [LinkedIn](https://www.linkedin.com/in/sayan-bhattacharyya/) profile for insights into my professional life. 
+Check out my [LinkedIn](https://www.linkedin.com/in/sayan-bhattacharyya/) for more insights into my professional life. 
 
 ## Statistics
 
@@ -22,10 +22,8 @@ You can support me by making a monthly or one-time donation, which helps me dedi
 
 [GitHub Sponsors](https://github.com/sponsors/Sn1F3rt) | [Patreon](https://www.patreon.com/sn1f3rt) | [Buy Me a Coffee](https://buymeacoffee.com/sn1f3rt)
 
-Thanks [greywolf](https://github.com/old-greywolf) for being a **Platinum Partner** @ [GitHub Sponsors](https://github.com/sponsors/Sn1F3rt)! ❤️🚀
-
 ## Contact
 
-Feel free to contact me to discuss a project, or say hi.
+Feel free to contact me to discuss a project or just say hi.
 
 [Email (sayan@sn1f3rt.dev)](mailto:sayan@sn1f3rt.dev) | [Discord (@sn1f3rt)](https://discord.com/users/589768200766619659)
